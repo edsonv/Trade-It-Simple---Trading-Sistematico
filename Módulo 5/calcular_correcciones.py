@@ -1,0 +1,1 @@
+/home/edsonv/.config/libreoffice/4/user/Scripts/python/calcular_correcciones.py
